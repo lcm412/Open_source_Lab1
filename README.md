@@ -9,4 +9,4 @@
 
   > 자세 인식 기능을 이용한 자세 교정과 스트레칭 알림 시스템
 
-_lab-1-calculator_
+__lab-1-calculator__
