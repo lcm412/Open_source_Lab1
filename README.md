@@ -4,7 +4,7 @@
 <hr/>
 
 * Git & Github 실습 : src/
-
+https://github.com/lcm412/Open_source_lab1/tree/main/src
 
 + 프로젝트 제안서 : doc/
 
