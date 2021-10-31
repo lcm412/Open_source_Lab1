@@ -16,4 +16,4 @@ https://github.com/lcm412/Open_source_lab1/tree/main/src
 
   + 자세 인식 기능을 이용한 **자세 교정** 및 **스트레칭 알림** 시스템
   
-https://github.com/lcm412/Open_source_lab1/tree/main/doc
+    https://github.com/lcm412/Open_source_lab1/tree/main/doc
